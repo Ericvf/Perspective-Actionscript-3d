@@ -1,0 +1,32 @@
+﻿<flash_project name="Perspective" version="1">
+    <project_folder name="classes" expanded="false">
+        <project_file path="./TEngine3D.as" filetype="as" />
+        <project_file path="./TFace.as" filetype="as" />
+        <project_file path="./TLightSource.as" filetype="as" />
+        <project_file path="./TStyle.as" filetype="as" />
+        <project_file path="./TVector.as" filetype="as" />
+        <project_file path="./TVertex.as" filetype="as" />
+        <project_file path="./TASC_reader.as" filetype="as" />
+        <project_file path="./TCamera.as" filetype="as" />
+        <project_file path="./TColor.as" filetype="as" />
+    </project_folder>
+    <project_folder name="editor" expanded="false">
+        <project_file path="./TViewport.as" filetype="as" />
+        <project_file path="./TDragPoint.as" filetype="as" />
+        <project_file path="./TEditor.as" filetype="as" />
+    </project_folder>
+    <project_folder name="lib" expanded="true">
+        <project_file path="./color.as" filetype="as" />
+    </project_folder>
+    <project_folder name="objects" expanded="true">
+        <project_file path="./objects/Cone.as" filetype="as" />
+        <project_file path="./objects/Cosahedron.as" filetype="as" />
+        <project_file path="./objects/Cube.as" filetype="as" />
+        <project_file path="./objects/Cylinder.as" filetype="as" />
+        <project_file path="./objects/Heart.as" filetype="as" />
+        <project_file path="./objects/Sphere.as" filetype="as" />
+        <project_file path="./objects/Torus.as" filetype="as" />
+    </project_folder>
+    <project_file path="./3D engine v3.fla" filetype="fla" profile="" />
+    <project_file path="./3D engine v3.swf" filetype="swf" />
+</flash_project>
